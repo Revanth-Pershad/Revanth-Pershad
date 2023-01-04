@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="100%" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
-# 💫 About Me:
-- 🔭 I’m currently working on **E-Commerce Web App**<br><br>- 🌱 I’m currently learning **Solidity**<br><br>- 👯 I’m looking to collaborate on **Web 3**<br><br>- 💬 Ask me about **MERN, C++**<br><br>- 📫 How to reach me **revanthpershad@gmail.com**<br>
+<h1> 💫 About Me:</h1>
+- 🔭 I’m currently working on **E-Commerce Web App**<br>- 🌱 I’m currently learning **Solidity**<br>- 👯 I’m looking to collaborate on **Web 3**<br>- 💬 Ask me about **MERN, C++**<br>- 📫 How to reach me **revanthpershad@gmail.com**<br>
 
 
 ## 🌐 Socials:
