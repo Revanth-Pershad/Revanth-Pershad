@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revanth-pershad&label=Profile%20views&color=0e75b6&style=flat" alt="revanth-pershad" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce React App**
+- 🔭 I’m currently working on **E-Commerce Web App**
 
-- 🌱 I’m currently learning **Next Js, Solidity, Django.**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **Web 3**
 
-- 💬 Ask me about **MERN, Web 3, C++**
+- 💬 Ask me about **MERN, C++**
 
 - 📫 How to reach me **revanthpershad@gmail.com**
 
