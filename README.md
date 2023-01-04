@@ -2,6 +2,8 @@
 <h1> 💫 About Me:</h1>
 - 🔭 I’m currently working on **E-Commerce Web App**<br>- 🌱 I’m currently learning **Solidity**<br>- 👯 I’m looking to collaborate on **Web 3**<br>- 💬 Ask me about **MERN, C++**<br>- 📫 How to reach me **revanthpershad@gmail.com**<br>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/revanth-pershad) 
